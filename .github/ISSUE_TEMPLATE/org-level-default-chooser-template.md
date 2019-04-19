@@ -2,7 +2,7 @@
 name: Org-level default chooser template
 about: Here's a description
 title: "\U0001F92A"
-labels: question
+labels: question, non-default-label
 assignees: QualityAssuranceUser
 
 ---
