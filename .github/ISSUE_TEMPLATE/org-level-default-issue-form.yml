@@ -2,7 +2,6 @@ name: Org-level default issue form
 description: yup yup
 title: "[Bug]: "
 labels: [bug]
-issue_body: true
 body:
 - type: markdown
   attributes:
