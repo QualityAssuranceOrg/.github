@@ -1,4 +1,4 @@
-name: Org-level default issue form
+name: Org-level default YAML issue form
 description: yup yup
 title: "[Bug]: "
 labels: [bug]
